@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Hardhat / OZ
+artifacts/
+cache/
+types/
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+tests/
